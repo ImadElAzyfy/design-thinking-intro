@@ -7,5 +7,6 @@
 - [Empathize](empathy/)
 - [Define & Ideate](define-and-ideate/)
 - [Prototype & Test](prototype-and-test/)
+- [Vox video on Design Thinking](https://www.youtube.com/watch?v=wOrmr5kT-48)
 
 This repository is licensed under [CC-by-4](LICENSE) (c) 2019 GitHub, Inc.
